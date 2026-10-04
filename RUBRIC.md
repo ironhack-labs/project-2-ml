@@ -2,7 +2,7 @@
 
 # Project 2 — Evaluation Rubric
 
-*Machine Learning: From Data to Decisions · Data Science & Machine Learning*
+*Machine Learning: From Data to Predictions · Data Science & Machine Learning*
 
 This is the **single source of truth** for how Project 2 is graded. It is adapted from Ironhack's DSML project rubric and uses the same **0–3 scale** as the [Generic Lab Rubric](https://gist.github.com/ironhack-edu/f5cf405db1708c201ad774ee4516bc94) and the Project 1 rubric, so labs and projects are assessed on one house scale.
 
