@@ -1,0 +1,12 @@
+segment_type,segment,n_rows,MAE_V,RMSE_V
+source_file,Activation Test MEA Cycling Potential/5.csv,93,0.11014408463144218,0.14446298630061075
+source_file,Activation Test MEA Constant Current 0.25A/4.csv,141,0.09128891500369989,0.12158766285956013
+source_file,Activation Test MEA Constant Voltage 0.6V-4/4.csv,143,0.08163542002766158,0.1109971582426178
+source_file,Activation Test MEA Constant Voltage 0.6V-4/6.csv,142,0.05830966713601589,0.07814226760811674
+source_file,Standard Test of Nafion Membrane 112/1.csv,651,0.05794662337905084,0.07321282590814523
+source_file,Activation Test MEA Constant Voltage 0.6V-3/6.csv,143,0.044523511396739136,0.06374437719544891
+test_family,Activation Test MEA Cycling Potential,93,0.11014408463144218,0.14446298630061075
+test_family,Activation Test MEA Constant Current 0.25A,141,0.09128891500369989,0.12158766285956013
+test_family,Activation Test MEA Constant Voltage 0.6V-4,285,0.07001346595533285,0.0960426654618578
+test_family,Standard Test of Nafion Membrane 112,651,0.05794662337905084,0.07321282590814523
+test_family,Activation Test MEA Constant Voltage 0.6V-3,143,0.044523511396739136,0.06374437719544891
